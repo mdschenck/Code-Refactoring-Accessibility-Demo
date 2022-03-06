@@ -30,9 +30,9 @@ This project meets all points of the Acceptance Criteria below:
 
 Site Screengrabs to demonstrate visible appearance of the site was maintained throughout this exercise:
 
-![Screenshot showing header and navigation bar above main hero banner](assets/images/Screenshot1Top.jpg)
+![Screenshot showing header and navigation bar above main hero banner](assets/images/Screenshot1Top.JPG)
 
-![Screenshot showing main content section](assets/images/Screenshot1Main.jpg)
+![Screenshot showing main content section](assets/images/Screenshot1Main.JPG)
 
 Reccomendations to further increase the site's functionality and accessibility to visitors on multiple devices:
 
