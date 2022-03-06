@@ -5,9 +5,9 @@
 This excercise is intended to follow the journey of a support ticket placed by a marketing agency to make their existing website more accessible through refactoring the code to include proper semantic elements, comments, and alt image text.
 
 The USER STORY for this project is as follows:
-AS A marketing agency,
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines.
+-AS A marketing agency,
+-I WANT a codebase that follows accessibility standards
+-SO THAT our own site is optimized for search engines.
 
 Given this user story, this project took their existing codebase and refactored the code to remove multiple non-descriptive DIV elements and replace them with the proper semantic elements like HEADER, NAV, MAIN, ASIDE, and FOOTER.
 Multiple redundant CSS elements were also combined and reorganized to facilitate better understanding of the site styling.
@@ -34,9 +34,8 @@ Site Screengrabs to demonstrate visible appearance of the site was maintained th
     ![Screenshot showing header and navigation bar above main hero banner](assets/images/screenshot 1 Top.jpg)
     ```
 
-    ```md
+
     ![Screenshot showing main content section](assets/images/screenshot 1 Main.jpg)
-    ```
 
 Reccomendations to further increase the site's functionality and accessibility to visitors on multiple devices:
 
